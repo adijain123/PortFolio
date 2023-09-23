@@ -40,9 +40,13 @@ font-family: 'Leckerli One', cursive;
     color: white;
 }
 .navbar a:hover{
-    background-color: grey;
+    background-color: black;
     border-radius: 5px;
 }
+ .headstyle a:hover{
+        color:red;
+        background-color: #333;
+    }
 
 #adi{
     font-size: 40px;
