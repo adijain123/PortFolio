@@ -120,7 +120,7 @@ footer a {
     color: #ffffff;
 }
 .banner{
-    background-image: url(../assets/photos/copy1.jpg);
+    background-image: url(copy1.jpg);
     height: 100vh;
     min-height: 100px;
     background-repeat: no-repeat;
@@ -345,7 +345,7 @@ footer a {
 }
 /* @media screen and (max-width:426px) {
     .banner{
-        background-image: url(/assets/photos/forsmallscreen3.jpg);
+        background-image: url(forsmallscreen3.jpg);
        
     }
 } */
